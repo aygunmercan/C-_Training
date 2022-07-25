@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.exe
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.deps.json
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.dll
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\bin\Debug\net5.0\MethodDetails.pdb
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.dll
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\refint\MethodDetails.dll
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.pdb
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\MethodDetails.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\MethodDetails\MethodDetails\obj\Debug\net5.0\ref\MethodDetails.dll

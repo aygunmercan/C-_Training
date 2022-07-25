@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.exe
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.deps.json
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.dll
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\bin\Debug\net5.0\BMICalculator.pdb
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.dll
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\refint\BMICalculator.dll
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.pdb
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\BMICalculator.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\BMICalculator\BMICalculator\obj\Debug\net5.0\ref\BMICalculator.dll

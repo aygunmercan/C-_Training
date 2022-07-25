@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.exe
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.deps.json
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.dll
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\bin\Debug\net5.0\ClassVSObject.pdb
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.dll
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\refint\ClassVSObject.dll
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.pdb
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ClassVSObject.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\ClassVSObject\ClassVSObject\obj\Debug\net5.0\ref\ClassVSObject.dll

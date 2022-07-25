@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\bin\Debug\net5.0\simpleSample.exe
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\bin\Debug\net5.0\simpleSample.deps.json
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\bin\Debug\net5.0\simpleSample.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\bin\Debug\net5.0\simpleSample.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\bin\Debug\net5.0\simpleSample.dll
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\bin\Debug\net5.0\simpleSample.pdb
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\simpleSample.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\simpleSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\simpleSample.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\simpleSample.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\simpleSample.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\simpleSample.dll
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\refint\simpleSample.dll
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\simpleSample.pdb
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\simpleSample.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\simpleSample\simpleSample\obj\Debug\net5.0\ref\simpleSample.dll

@@ -1,0 +1,16 @@
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\bin\Debug\net5.0\LooselyCoupled.exe
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\bin\Debug\net5.0\LooselyCoupled.deps.json
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\bin\Debug\net5.0\LooselyCoupled.runtimeconfig.json
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\bin\Debug\net5.0\LooselyCoupled.runtimeconfig.dev.json
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\bin\Debug\net5.0\LooselyCoupled.dll
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\bin\Debug\net5.0\LooselyCoupled.pdb
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\LooselyCoupled.csproj.AssemblyReference.cache
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\LooselyCoupled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\LooselyCoupled.AssemblyInfoInputs.cache
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\LooselyCoupled.AssemblyInfo.cs
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\LooselyCoupled.csproj.CoreCompileInputs.cache
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\LooselyCoupled.dll
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\refint\LooselyCoupled.dll
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\LooselyCoupled.pdb
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\LooselyCoupled.genruntimeconfig.cache
+C:\Users\AygunPC\Documents\C#\LooselyCoupled\LooselyCoupled\obj\Debug\net5.0\ref\LooselyCoupled.dll

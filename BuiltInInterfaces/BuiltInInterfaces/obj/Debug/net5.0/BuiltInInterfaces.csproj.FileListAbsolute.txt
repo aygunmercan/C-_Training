@@ -1,0 +1,16 @@
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.exe
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.deps.json
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.runtimeconfig.json
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.runtimeconfig.dev.json
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.dll
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\bin\Debug\net5.0\BuiltInInterfaces.pdb
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.csproj.AssemblyReference.cache
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.AssemblyInfoInputs.cache
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.AssemblyInfo.cs
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.dll
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\refint\BuiltInInterfaces.dll
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.pdb
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\BuiltInInterfaces.genruntimeconfig.cache
+C:\Users\AygunPC\Documents\C#\BuiltInInterfaces\BuiltInInterfaces\obj\Debug\net5.0\ref\BuiltInInterfaces.dll

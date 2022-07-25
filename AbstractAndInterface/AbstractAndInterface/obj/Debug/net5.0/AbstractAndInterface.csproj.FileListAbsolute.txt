@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\bin\Debug\net5.0\AbstractAndInterface.exe
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\bin\Debug\net5.0\AbstractAndInterface.deps.json
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\bin\Debug\net5.0\AbstractAndInterface.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\bin\Debug\net5.0\AbstractAndInterface.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\bin\Debug\net5.0\AbstractAndInterface.dll
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\bin\Debug\net5.0\AbstractAndInterface.pdb
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\AbstractAndInterface.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\AbstractAndInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\AbstractAndInterface.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\AbstractAndInterface.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\AbstractAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\AbstractAndInterface.dll
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\refint\AbstractAndInterface.dll
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\AbstractAndInterface.pdb
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\AbstractAndInterface.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\AbstractAndInterface\AbstractAndInterface\obj\Debug\net5.0\ref\AbstractAndInterface.dll

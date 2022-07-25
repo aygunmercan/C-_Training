@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\refint\Inheritance.dll
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\Inheritance\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll

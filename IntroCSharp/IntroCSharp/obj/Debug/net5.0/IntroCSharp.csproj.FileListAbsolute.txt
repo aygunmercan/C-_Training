@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.exe
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.deps.json
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.dll
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\bin\Debug\net5.0\IntroCSharp.pdb
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.dll
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\refint\IntroCSharp.dll
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.pdb
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\IntroCSharp.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\IntroCSharp\IntroCSharp\obj\Debug\net5.0\ref\IntroCSharp.dll

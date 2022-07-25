@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.exe
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.deps.json
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.dll
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\bin\Debug\net5.0\ArrayAndCollection.pdb
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.dll
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\refint\ArrayAndCollection.dll
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.pdb
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ArrayAndCollection.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\ArrayAndCollection\ArrayAndCollection\obj\Debug\net5.0\ref\ArrayAndCollection.dll

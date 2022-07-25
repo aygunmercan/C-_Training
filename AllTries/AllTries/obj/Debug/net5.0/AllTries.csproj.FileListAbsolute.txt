@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\AllTries.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\AllTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\AllTries.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\AllTries.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\AllTries.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\bin\Debug\net5.0\AllTries.exe
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\bin\Debug\net5.0\AllTries.deps.json
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\bin\Debug\net5.0\AllTries.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\bin\Debug\net5.0\AllTries.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\bin\Debug\net5.0\AllTries.dll
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\bin\Debug\net5.0\AllTries.pdb
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\AllTries.dll
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\refint\AllTries.dll
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\AllTries.pdb
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\AllTries.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\AllTries\AllTries\obj\Debug\net5.0\ref\AllTries.dll

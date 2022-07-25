@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.exe
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.deps.json
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.dll
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\bin\Debug\net5.0\BuiltInMethods.pdb
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.dll
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\refint\BuiltInMethods.dll
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.pdb
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\BuiltInMethods.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\BuiltInMethods\BuiltInMethods\obj\Debug\net5.0\ref\BuiltInMethods.dll

@@ -1,0 +1,16 @@
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.exe
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.deps.json
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.runtimeconfig.json
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.runtimeconfig.dev.json
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.dll
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\bin\Debug\net5.0\KararYapisiDevam.pdb
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.csproj.AssemblyReference.cache
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.AssemblyInfoInputs.cache
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.AssemblyInfo.cs
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.csproj.CoreCompileInputs.cache
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.dll
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\refint\KararYapisiDevam.dll
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.pdb
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\KararYapisiDevam.genruntimeconfig.cache
+C:\Users\Aylin\Documents\C#\KararYapisiDevam\KararYapisiDevam\obj\Debug\net5.0\ref\KararYapisiDevam.dll
