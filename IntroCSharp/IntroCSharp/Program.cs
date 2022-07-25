@@ -6,7 +6,7 @@ namespace IntroCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! and you");
         }
     }
 }
